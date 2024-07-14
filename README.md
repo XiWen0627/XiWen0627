@@ -8,10 +8,10 @@
 - 📚 I’m currently engaged in **trajectory data mining** using Reinforcement Learning.
 
 
-- 🌱 I’m learning Natural Language Processing(NLP) techniques, drawn by their similarity to spatio-temporal data mining.
+- 🌱 I’m learning **Natural Language Processing(NLP)** techniques, drawn by their similarity to spatio-temporal data mining.
 
   
-- 💞️ I’m seeking collaborations on AI applications in human behaviors and urban science.
+- 💞️ I’m seeking collaborations on **AI applications in human behaviors and urban science**.
 
   
 - 📫 You can reach me at:
