@@ -1,5 +1,5 @@
 # Hello, welcome to my profile~  
-- 👋 I’m **Kezhou Ren** (Github: @XiWen0627), currently studying at the Shenzhen Campus of Harbin Institute of Technology.
+- 👋 I’m **Kezhou Ren** (Github: @XiWen0627), currently a master's student.
 
   
 - 👀 I’m interested in **understanding socioeconomic environments** through individual-level big geospatial data and associated analytical methods.
