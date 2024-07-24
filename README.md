@@ -32,6 +32,7 @@
  
   - 🧗‍♂️ I’m dedicated to translating my beliefs into practical outcomes through research.
 
+
 # Skills
 ## Languages
 |Python|SQL|R|C#|Javascript|Stata|
@@ -54,12 +55,13 @@
 |:------:|:------:|:------:|
 ||![Seaborn](https://github.com/user-attachments/assets/69fc2cca-4ef4-4033-ab89-888d6db548fb)|![Plotting](https://github.com/user-attachments/assets/3913868e-b1a8-4e16-8b11-e5b64e8ded94)|
 
+
 # Contents of My GitHub Account  
 
 - 🎎 Contributions to My Research Group
   
 - 💻 Source Code of My own Research
-    
+  
 <!---
 XiWen0627/XiWen0627 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
