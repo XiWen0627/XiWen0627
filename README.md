@@ -16,7 +16,7 @@
   
 - 📫 You can reach me at:
   
-  - 📮 Email 1: 1173450209@stu.hit.edu.cn
+  - 📮 Email 1: 25144989r@connect.polyu.hk
     
   - 📬 Email 2: 1243836640@qq.com
   
